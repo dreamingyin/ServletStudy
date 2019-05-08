@@ -27,7 +27,7 @@ Java 类库的全部功能对 Servlet 来说都是可用的。它可以通过 so
 Servlet 架构
 下图显示了 Servlet 在 Web 应用程序中的位置。
 我们依旧会支持flowchart的流程图：
-
+![Image text](https://7n.w3cschool.cn/attachments/day_160820/201608201310026613.jpg)
 Servlet 架构
 
 
