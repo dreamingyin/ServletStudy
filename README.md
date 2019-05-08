@@ -26,16 +26,8 @@ Servlet 是独立于平台的，因为它们是用 Java 编写的。
 Java 类库的全部功能对 Servlet 来说都是可用的。它可以通过 sockets 和 RMI 机制与 applets、数据库或其他软件进行交互。
 Servlet 架构
 下图显示了 Servlet 在 Web 应用程序中的位置。
-```mermaid
-flowchat
-st=>start: Web Broswer
-e=>end: DataBase
-op=>operation: HTTP Server
-cond=>condition: HTTP Protocol
+我们依旧会支持flowchart的流程图：
 
-st->op->cond
-cond(yes)->e
-cond(no)->op
 Servlet 架构
 
 
